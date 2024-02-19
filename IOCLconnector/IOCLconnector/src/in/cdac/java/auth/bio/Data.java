@@ -7,7 +7,7 @@ import javax.xml.bind.annotation.XmlType;
 import javax.xml.bind.annotation.XmlValue;
 
 //@XmlAccessorType(XmlAccessType.FIELD)
-@XmlAccessorType(XmlAccessType.NONE)
+@XmlAccessorType(XmlAccessType.PROPERTY)
 @XmlType(
    name = "Data",
    propOrder = {"content", "type"}
