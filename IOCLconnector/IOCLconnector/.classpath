@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_361"/>
+	<classpathentry excluding="connector.properties" kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.5.10.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.4.13.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-client-1.19.1.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-core-1.19.1.jar"/>
+	<classpathentry kind="lib" path="lib/kyc.jar"/>
+	<classpathentry kind="lib" path="lib/otp.jar"/>
+	<classpathentry kind="lib" path="lib/spring-beans-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-core-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-web-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/tokenize.jar"/>
+	<classpathentry kind="lib" path="lib/bcprov-jdk18on-172.jar"/>
+	<classpathentry kind="lib" path="lib/auth.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
